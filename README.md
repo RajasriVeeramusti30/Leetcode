@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0205-isomorphic-strings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
