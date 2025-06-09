@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Array
 |  |
 | ------- |
