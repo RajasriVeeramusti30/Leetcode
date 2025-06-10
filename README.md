@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Topological Sort
 |  |
 | ------- |
