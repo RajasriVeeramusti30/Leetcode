@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Monotonic Stack
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
 | ------- |
