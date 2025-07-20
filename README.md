@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/RajasriVeeramusti/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
