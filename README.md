@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0868-push-dominoes) |
+| [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/RajasriVeeramusti/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1813-maximum-erasure-value](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
+| [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
