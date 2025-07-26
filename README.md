@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
