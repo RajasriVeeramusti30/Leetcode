@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0135-candy) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0868-push-dominoes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
