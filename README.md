@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
