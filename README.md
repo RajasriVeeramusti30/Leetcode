@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
