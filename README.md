@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
