@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0498-diagonal-traverse](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
