@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -480,5 +484,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
