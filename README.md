@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
@@ -530,4 +533,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
