@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
