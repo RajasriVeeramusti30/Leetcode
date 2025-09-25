@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0792-binary-search) |
