@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0049-group-anagrams) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0868-push-dominoes) |
