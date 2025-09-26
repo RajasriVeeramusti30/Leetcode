@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
