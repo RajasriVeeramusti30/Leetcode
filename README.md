@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1610-xor-operation-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
