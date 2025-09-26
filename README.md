@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0067-add-binary) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
