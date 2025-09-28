@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
