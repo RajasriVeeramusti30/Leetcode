@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
