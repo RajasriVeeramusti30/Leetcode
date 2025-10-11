@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajasriVeeramusti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/RajasriVeeramusti/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -511,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
