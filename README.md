@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
