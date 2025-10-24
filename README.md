@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
 |  |
 | ------- |
