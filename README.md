@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0682-baseball-game) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
