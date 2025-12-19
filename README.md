@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3863-power-grid-maintenance](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Segment Tree
 |  |
