@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RajasriVeeramusti/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0389-find-the-difference) |
 | [0868-push-dominoes](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
