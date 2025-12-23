@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RajasriVeeramusti30/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
